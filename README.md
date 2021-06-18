@@ -12,6 +12,6 @@ Use your array and random number generation skills to program this challenge whe
 - If the ball hits the ground, a “Game Over” debug message is displayed;
 - The dogs and balls are removed from the scene when they leave the screen;
 
-# Available MVP:
+## Available MVP:
 
-# [:video_game: Game Play Here :joystick:](https://play.unity.com/mg/other/wbgl-w2ph)
+## [:video_game: Game Play Here :joystick:](https://play.unity.com/mg/other/wbgl-w2ph)
