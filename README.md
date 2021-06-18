@@ -11,3 +11,5 @@ Use your array and random number generation skills to program this challenge whe
 - If the dog collides with the ball, the ball is destroyed;
 - If the ball hits the ground, a “Game Over” debug message is displayed;
 - The dogs and balls are removed from the scene when they leave the screen;
+
+# [:video_game: Game Play Here :joystick:](https://play.unity.com/mg/other/wbgl-w2ph)
